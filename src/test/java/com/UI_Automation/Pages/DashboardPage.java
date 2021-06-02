@@ -8,7 +8,7 @@ public class DashboardPage {
     public DashboardPage(){
         PageFactory.initElements(Driver.getDriver(),this);
     }
-
+// new dashboard page 
 
 
 
