@@ -8,8 +8,10 @@ public class DashboardPage {
     public DashboardPage(){
         PageFactory.initElements(Driver.getDriver(),this);
     }
-// new dashboard page 
-    // this for git stash
+
+// new dashboard page
+    // this is for git stash
+
 
 
 }
