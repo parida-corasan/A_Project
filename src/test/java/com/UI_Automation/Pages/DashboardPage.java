@@ -9,8 +9,7 @@ public class DashboardPage {
         PageFactory.initElements(Driver.getDriver(),this);
     }
 // new dashboard page 
-    // this for git stash from remote repository
-
+    // this for git stash
 
 
 }
